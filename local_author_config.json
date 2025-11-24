@@ -1,0 +1,19 @@
+{
+  "repos": [{
+      "repo": "https://github.com/ChrisMarsh82/PLH-library-menu.git",
+      "id": "plh_library-menu",
+      "file_location": "C:\\Source\\CM82\\PLH-library-menu"
+    },
+    {
+    "repo": "https://github.com/ChrisMarsh82/PLH-Global.git",
+    "id": "plh_global",
+    "file_location": "C:\\Source\\CM82\\PLH-Global"
+    },
+    {
+    "repo": "https://github.com/ChrisMarsh82/PLH-onboarding.git",
+    "id": "plh_onboarding",
+    "file_location": "C:\\Source\\CM82\\PLH-onboarding"
+    }    
+  ]
+  
+}

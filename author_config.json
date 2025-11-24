@@ -1,0 +1,27 @@
+{
+  "assets": [{ 
+    "bucket" : "plh_facilitator_cw_assets",
+    "cc_url": "https://console.cloud.google.com/storage/browser/plh_facilitator_cw_assets",
+    "gsutil_path": "gs://plh_facilitator_cw_assets",
+    "drive_id": "1pjCAps6KARSLUbceF7DaI-W156QaIqum",
+    "?version" :"v1"
+  }],
+  "sheets": [
+    {
+  "sheetId": "1eqNS38_aD04DrkF2e8JEJ-xhLKJj42uoHv45NX-gTKI",
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1eqNS38_aD04DrkF2e8JEJ-xhLKJj42uoHv45NX-gTKI",
+  "pathParam": "data_list/about_this_app.json"
+}
+
+  ],
+  "repos": [{
+    "repo": "https://github.com/ChrisMarsh82/PLH-library-menu.git",
+    "tag": "main"}
+    ,{
+    "repo": "https://github.com/ChrisMarsh82/PLH-Global.git",
+    "tag": "main"},
+    {
+    "repo": "https://github.com/ChrisMarsh82/PLH-onboarding.git",
+    "tag": "main"}    
+  ]
+}
